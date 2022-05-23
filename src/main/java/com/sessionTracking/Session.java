@@ -10,6 +10,7 @@ import javax.servlet.*;
 import javax.servlet.http.*;
 
 //Extend HttpServlet class
+@SuppressWarnings("serial")
 public class Session extends HttpServlet {
 
 	public void doGet(HttpServletRequest request,
