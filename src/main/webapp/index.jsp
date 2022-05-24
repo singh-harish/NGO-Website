@@ -21,8 +21,8 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav text-uppercase ms-auto py-4 py-lg-0">
           <li class="nav-item"><a class="nav-link" data-bs-toggle="modal" href="#portfolioModal1">Donate</a></li>
-          <li class="nav-item"><a class="nav-link" href="events.jsp">Events</a></li>
-          <li class="nav-item"><a class="nav-link" href="drives.jsp">Drives</a></li>
+          <li class="nav-item"><a class="nav-link" href="http://localhost/NGO-PHP/events.php">Events</a></li>
+          <li class="nav-item"><a class="nav-link" href="http://localhost/NGO-PHP/drives.php">Drives</a></li>
           <li class="nav-item"><a class="nav-link" href="careers.jsp">Careers</a></li>
           <li class="nav-item"><a class="nav-link" href="#team">About Us</a></li>
           <li class="nav-item"><a class="nav-link" href="#contact">Contact Us</a></li>
@@ -175,6 +175,7 @@
         </div>
       </div>
     </div>
+    <a href="http://localhost/NGO-PHP/hints.html" class="btn btn-dark btn-lg active mt-4" role="button" aria-pressed="true">Search Sponsor</a>
   </section>
 
   <!-- Contact Us Form -->

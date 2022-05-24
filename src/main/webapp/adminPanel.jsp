@@ -48,7 +48,7 @@
 	<a href="read_cookies"><div class="s-card"><img src="images/admin/cookie.jpg"><p>See Cookies</p></div></a>
 	<a href="flush_cookies"><div class="s-card"><img src="images/admin/cookie.jpg"><p>Flush Cookies</p></div></a>
 	<a href="Session"><div class="s-card"><img src="images/admin/session.jpg"><p>Session Information</p></div></a>
-	<a href="#"><div class="s-card"><img src="images/admin/cookie.jpg"><p>Performance and Ranking Report</p></div></a>
+	<a href="#"><div class="s-card"><img src="images/admin/session.jpg"><p>All User Information</p></div></a>
 	<a href="#"><div class="s-card"><img src="images/admin/anonymous.jpg"><p>Discussion with Our Tutors & Mentors</p></div></a>
 	<a href="#"><div class="s-card"><img src="images/admin/anonymous.jpg"><p>Daily Brain Teasing Questions to Improve IQ</p></div></a>
 	<a href="#"><div class="s-card"><img src="images/admin/anonymous.jpg"><p>24x7 Online Support</p></div></a>
