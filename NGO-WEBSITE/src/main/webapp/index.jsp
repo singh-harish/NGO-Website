@@ -7,7 +7,7 @@
 
 <jsp:include page="header.jsp" />
 
-</head>
+</head> 
 <body>
 	
 	<!-- Navigation-->
@@ -175,7 +175,7 @@
         </div>
       </div>
     </div>
-    <a href="http://localhost/NGO-PHP/hints.html" class="btn btn-dark btn-lg active mt-4" role="button" aria-pressed="true">Search Sponsor</a>
+    <a href="http://localhost/NGO-PHP/hints.php" class="btn btn-dark btn-lg active mt-4" role="button" aria-pressed="true">Search Sponsor</a>
   </section>
 
   <!-- Contact Us Form -->
